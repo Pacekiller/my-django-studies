@@ -7,8 +7,7 @@ This repository is a studybook of my own studies, first following the tutorial o
 ### Etapa 3 - OK
 ### Etapa 4 - OK
 ### Etapa 5 - OK
-### Etapa 6 - Não iniciada ainda.
-    Ver https://docs.djangoproject.com/en/5.2/intro/tutorial06/
+### Etapa 6 - OK
 ### Etapa 7 - Não iniciada ainda.
     Ver https://docs.djangoproject.com/en/5.2/intro/tutorial07/
 ### Etapa 8 - Não iniciada ainda.
@@ -46,6 +45,12 @@ This repository is a studybook of my own studies, first following the tutorial o
     Tutorial 5:
         - Test creation and testing the testing [https://docs.djangoproject.com/en/5.2/topics/testing/] 
         - Advanded Testing [https://docs.djangoproject.com/en/5.2/topics/testing/advanced/#topics-testing-code-coverage]
+
+    Tutorial 6:
+        - Test creation and testing the testing [https://docs.djangoproject.com/en/5.2/topics/testing/] 
+        - Static files How-to [https://docs.djangoproject.com/en/5.2/howto/static-files/]
+        - Statics files [https://docs.djangoproject.com/en/5.2/ref/contrib/staticfiles/]
+        - Deply static files How-to [https://docs.djangoproject.com/en/5.2/howto/static-files/deployment/]
 
 
 
