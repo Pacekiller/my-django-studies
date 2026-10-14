@@ -8,8 +8,7 @@ This repository is a studybook of my own studies, first following the tutorial o
 ### Etapa 4 - OK
 ### Etapa 5 - OK
 ### Etapa 6 - OK
-### Etapa 7 - Não iniciada ainda.
-    Ver https://docs.djangoproject.com/en/5.2/intro/tutorial07/
+### Etapa 7 - OK
 ### Etapa 8 - Não iniciada ainda.
     Ver https://docs.djangoproject.com/en/5.2/intro/tutorial08/
 
@@ -52,6 +51,14 @@ This repository is a studybook of my own studies, first following the tutorial o
         - Statics files [https://docs.djangoproject.com/en/5.2/ref/contrib/staticfiles/]
         - Deply static files How-to [https://docs.djangoproject.com/en/5.2/howto/static-files/deployment/]
 
+    Tutorial 7:
+        - Lis_display (decor) [https://docs.djangoproject.com/en/5.2/ref/contrib/admin/#django.contrib.admin.ModelAdmin.list_display]
+        - Change_list_paginator [https://docs.djangoproject.com/en/5.2/ref/contrib/admin/#django.contrib.admin.ModelAdmin.list_per_page]
+        - Search boxes [https://docs.djangoproject.com/en/5.2/ref/contrib/admin/#django.contrib.admin.ModelAdmin.search_fields]
+        - Filters [https://docs.djangoproject.com/en/5.2/ref/contrib/admin/#django.contrib.admin.ModelAdmin.list_filter]
+        - Date-hierarchy [https://docs.djangoproject.com/en/5.2/ref/contrib/admin/#django.contrib.admin.ModelAdmin.date_hierarchy]
+        - Column-header-oredering [https://docs.djangoproject.com/en/5.2/ref/contrib/admin/#django.contrib.admin.ModelAdmin.list_display]
+        - Template loading Docs [https://docs.djangoproject.com/en/5.2/topics/templates/#template-loading]
 
 
 
