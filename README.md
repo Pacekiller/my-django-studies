@@ -5,8 +5,9 @@ This repository is a studybook of my own studies, first following the tutorial o
 ### Etapa 1 - OK
 ### Etapa 2 - OK
 ### Etapa 3 - OK
-### Etapa 4 - Não iniciada ainda. Ver
-###  https://docs.djangoproject.com/en/6.1/intro/tutorial04/
+### Etapa 4 - OK
+### Etapa 5 - Não iniciada ainda. Ver
+###  https://docs.djangoproject.com/en/5.2/intro/tutorial05/
 
 
 
@@ -32,7 +33,10 @@ This repository is a studybook of my own studies, first following the tutorial o
         - timezones [https://docs.djangoproject.com/en/6.1/topics/i18n/timezones/]
         - Traduções [https://docs.djangoproject.com/en/6.1/topics/i18n/translation/]
 
-    Tutorial 3:
+    Tutorial 4:
+        - Expressões de Query [https://docs.djangoproject.com/en/5.2/ref/models/expressions/#avoiding-race-conditions-using-f]
+        - HttpResponse (request e response) [https://docs.djangoproject.com/en/5.2/ref/request-response/]
+        - Generic View [https://docs.djangoproject.com/en/5.2/topics/class-based-views/]
 
 
 
