@@ -6,8 +6,13 @@ This repository is a studybook of my own studies, first following the tutorial o
 ### Etapa 2 - OK
 ### Etapa 3 - OK
 ### Etapa 4 - OK
-### Etapa 5 - Não iniciada ainda. Ver
-###  https://docs.djangoproject.com/en/5.2/intro/tutorial05/
+### Etapa 5 - OK
+### Etapa 6 - Não iniciada ainda.
+    Ver https://docs.djangoproject.com/en/5.2/intro/tutorial06/
+### Etapa 7 - Não iniciada ainda.
+    Ver https://docs.djangoproject.com/en/5.2/intro/tutorial07/
+### Etapa 8 - Não iniciada ainda.
+    Ver https://docs.djangoproject.com/en/5.2/intro/tutorial08/
 
 
 
@@ -37,6 +42,10 @@ This repository is a studybook of my own studies, first following the tutorial o
         - Expressões de Query [https://docs.djangoproject.com/en/5.2/ref/models/expressions/#avoiding-race-conditions-using-f]
         - HttpResponse (request e response) [https://docs.djangoproject.com/en/5.2/ref/request-response/]
         - Generic View [https://docs.djangoproject.com/en/5.2/topics/class-based-views/]
+
+    Tutorial 5:
+        - Test creation and testing the testing [https://docs.djangoproject.com/en/5.2/topics/testing/] 
+        - Advanded Testing [https://docs.djangoproject.com/en/5.2/topics/testing/advanced/#topics-testing-code-coverage]
 
 
 
