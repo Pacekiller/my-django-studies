@@ -7,7 +7,7 @@
 ### Etapa 5 - OK
 ### Etapa 6 - OK
 ### Etapa 7 - OK
-### Etapa 8 - Não iniciada ainda.
+### Etapa 8 - OK
     Ver https://docs.djangoproject.com/en/5.2/intro/tutorial08/
 
 
