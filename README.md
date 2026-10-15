@@ -50,7 +50,7 @@
         - Deply static files How-to [https://docs.djangoproject.com/en/5.2/howto/static-files/deployment/]
 
     Tutorial 7:
-        - Lis_display (decor) [https://docs.djangoproject.com/en/5.2/ref/contrib/admin/#django.contrib.admin.ModelAdmin.list_display]
+        - List_display (decor) [https://docs.djangoproject.com/en/5.2/ref/contrib/admin/#django.contrib.admin.ModelAdmin.list_display]
         - Change_list_paginator [https://docs.djangoproject.com/en/5.2/ref/contrib/admin/#django.contrib.admin.ModelAdmin.list_per_page]
         - Search boxes [https://docs.djangoproject.com/en/5.2/ref/contrib/admin/#django.contrib.admin.ModelAdmin.search_fields]
         - Filters [https://docs.djangoproject.com/en/5.2/ref/contrib/admin/#django.contrib.admin.ModelAdmin.list_filter]
@@ -58,6 +58,14 @@
         - Column-header-oredering [https://docs.djangoproject.com/en/5.2/ref/contrib/admin/#django.contrib.admin.ModelAdmin.list_display]
         - Template loading Docs [https://docs.djangoproject.com/en/5.2/topics/templates/#template-loading]
 
+    Tutorial 8:
+        - Debug panel [https://django-debug-toolbar.readthedocs.io/en/latest/installation.html]
+        - Debug panel configs [https://django-debug-toolbar.readthedocs.io/en/latest/panels.html]
+        - Django Packages [https://djangopackages.org/]
+        - Sphinx doc gen [https://www.sphinx-doc.org/en/master/usage/quickstart.html]
+        - Intersphinx [https://www.sphinx-doc.org/en/master/usage/quickstart.html#intersphinx]
+        - Comunidade Django [https://www.djangoproject.com/community/ecosystem/]
+        - Ultimo, mas não menos importante: DOCUMENTAÇÃO da documentação do Django! [https://docs.djangoproject.com/en/5.2/intro/whatsnext/]
 
 
 

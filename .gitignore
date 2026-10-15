@@ -1,2 +1,4 @@
 venv/*
 .venv/*
+/django-polls/dist/*
+/django-polls/django_polls.egg-info/*
